@@ -1,3 +1,13 @@
+## 
+fork 自 git@github.com:YanagiEiichi/SocketIPC.git
+
+用socket实现了一个IPC(inter process communication), 类似Remote Procedure Call。
+
+
+
+
+
+
 # SocketIPC
 
 Implements IPC with Socket on cluster mode
